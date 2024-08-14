@@ -4,4 +4,5 @@ export const colors = {
     vineLight:'#B33948',
     begeNormal:'#FCB9B2',
     begeLight:'#FED0BB',
+    card:'#0D0D0D'
 }

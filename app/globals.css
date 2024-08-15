@@ -46,4 +46,16 @@ body {
   .text-9xl{
     font-size: 12rem;
   }
+
+  .max-h-540{
+    max-height: 540px;
+  }
+
+  .rounded-big{
+    border-radius: 12em 12em 0 0;
+  }
+
+  .rounded-nor{
+    border-radius: 6em 6em 0 0;
+  }
 }

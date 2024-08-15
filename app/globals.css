@@ -30,4 +30,20 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  .max-w-1200{
+    max-width: 1200px;
+  }
+
+  .text-12xl{
+    font-size: 32rem;
+  }
+
+  .text-10xl{
+    font-size: 20rem;
+  }
+
+  .text-9xl{
+    font-size: 12rem;
+  }
 }

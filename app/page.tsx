@@ -1,5 +1,14 @@
 import { colors } from './colors'
-import { Atributes, Banner, Header, Main } from './ui/Home'
+import {
+    Atributes,
+    Banner,
+    CallToAction,
+    Footer,
+    Header,
+    Main,
+    Reviews,
+    Section,
+} from './ui/Home'
 
 export default function Home() {
     return (
@@ -15,6 +24,15 @@ export default function Home() {
                     <CircleStyle variant={1} />
                     <CircleStyle variant={2} />
                 </div>
+            </div>
+            <div
+                className="p-10 lg:p-24"
+                style={{ backgroundColor: colors.vineNormal }}
+            >
+                <Reviews />
+                <Section />
+                <CallToAction />
+                <Footer />
             </div>
         </main>
     )

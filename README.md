@@ -22,11 +22,12 @@ Projeto de Landing Page para loja online.
   <h3 align="center">Versao Tablet</h3>
   <p>Nessa pagina e onde o usuario final pode visualizar os posts recentes.
   </p>
-  <image src="https://raw.githubusercontent.com/TallysonFreitas/shop-parfum/main/public/captura-mobile.png"/>
+  <image src="https://raw.githubusercontent.com/TallysonFreitas/shop-parfum/main/public/captura-tablet.png"/>
 </div>
 <div align="center">
   <h3 align="center">Versao Mobile</h3>
   <p>Nessa pagina e onde o usuario final pode visualizar os posts recentes.
   </p>
-  <image src="https://raw.githubusercontent.com/TallysonFreitas/shop-parfum/main/public/captura-tablet.png"/>
+  
+  <image src="https://raw.githubusercontent.com/TallysonFreitas/shop-parfum/main/public/captura-mobile.png"/>
 </div>

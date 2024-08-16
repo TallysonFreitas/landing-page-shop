@@ -71,15 +71,15 @@ export function Banner() {
                     <Image
                         alt="image"
                         src={'/image1.png'}
-                        width={100}
-                        height={100}
+                        width={500}
+                        height={500}
                         className="w-full col-span-2 rounded-lg"
                     />
                     <Image
                         alt="image"
                         src={'/image4.png'}
-                        width={100}
-                        height={100}
+                        width={500}
+                        height={500}
                         className="w-full rounded-lg"
                     />
                 </div>
@@ -90,15 +90,15 @@ export function Banner() {
                     <Image
                         alt="image"
                         src={'/image3.png'}
-                        width={100}
-                        height={100}
+                        width={500}
+                        height={500}
                         className="w-full rounded-lg"
                     />
                     <Image
                         alt="image"
                         src={'/image2.png'}
-                        width={100}
-                        height={100}
+                        width={500}
+                        height={500}
                         className="w-full col-span-2 rounded-lg"
                     />
                 </div>
